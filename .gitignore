@@ -98,6 +98,9 @@ dist
 .fusebox/
 
 # DynamoDB Local files
+# idea files
+.idea/
+*.js
 .dynamodb/
 
 # TernJS port file
