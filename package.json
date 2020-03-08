@@ -19,6 +19,10 @@
   "homepage": "https://github.com/biiyamn/ts-labs#readme",
   "description": "",
   "devDependencies": {
+    "@types/node": "^13.9.0",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4"
   }
 }
